@@ -2,7 +2,4 @@
 My simple attempt to impleament a tic tac toe in the command line with help of my tutor [@A-J-Sarmah](https://github.com/A-J-Sarmah).
 
 ### Status 
-We now render a board.
-
-### To-Dos
-1. Impleament the game loop
+We now have a complete game
